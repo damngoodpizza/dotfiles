@@ -1,2 +1,2 @@
-###damngoodpizza's dotfile repository
+### damngoodpizza's dotfile repository
 
